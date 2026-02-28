@@ -1,0 +1,11 @@
+{
+  "name": "knowledge-navigator-skill",
+  "version": "1.2.0",
+  "description": "Premium Skill Package for knowledge-navigator",
+  "type": "module",
+  "scripts": {
+    "validate": "node scripts/validate.js",
+    "install-skill": "npm run validate && gemini skills install .",
+    "package": "npm run validate && zip -r knowledge-navigator.skill . -x '.*' '__MACOSX' '.git/*'"
+  }
+}
