@@ -1,15 +1,17 @@
 {
   "name": "knowledge-navigator-skill",
-  "version": "1.2.0",
-  "description": "Semantic Knowledge Navigation & Socratic Thinking Expert. Orchestrates Hybrid RAG for complex problem synthesis.",
+  "version": "1.2.1",
+  "description": "Universal Knowledge Navigation & Socratic Thinking Protocol. Model-agnostic Hybrid RAG orchestration for semantic problem synthesis.",
   "type": "module",
   "author": "司南烛 (Si Nan Zhu)",
   "license": "MIT",
   "keywords": [
-    "knowledge-navigation",
     "hybrid-rag",
     "socratic-thinking",
-    "semantic-search"
+    "semantic-search",
+    "knowledge-graph",
+    "ai-skill",
+    "mcp"
   ],
   "homepage": "https://github.com/webkubor/knowledge-navigator-skill",
   "scripts": {
