@@ -2,7 +2,7 @@
 name: knowledge-navigator-skill
 description: "Universal Knowledge Navigation & Socratic Thinking Protocol. Optimized for Gemini 2.x Hybrid RAG orchestration and logical deep-diving."
 version: 1.2.2
-author: "司南烛 (Si Nan Zhu)"
+author: "webkubor"
 license: "MIT"
 keywords: ["hybrid-rag", "socratic-thinking", "semantic-search", "knowledge-graph", "problem-analysis"]
 allowed-tools: ["list_dir", "grep_search", "read_file"]

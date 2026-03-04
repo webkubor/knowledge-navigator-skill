@@ -3,7 +3,7 @@
   "version": "1.2.1",
   "description": "Universal Knowledge Navigation & Socratic Thinking Protocol. Model-agnostic Hybrid RAG orchestration for semantic problem synthesis.",
   "type": "module",
-  "author": "司南烛 (Si Nan Zhu)",
+  "author": "webkubor",
   "license": "MIT",
   "keywords": [
     "hybrid-rag",
@@ -16,5 +16,16 @@
   "homepage": "https://github.com/webkubor/knowledge-navigator-skill",
   "scripts": {
     "validate": "node scripts/validate.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webkubor/knowledge-navigator-skill.git"
+  },
+  "bugs": {
+    "url": "https://github.com/webkubor/knowledge-navigator-skill/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
   }
 }
